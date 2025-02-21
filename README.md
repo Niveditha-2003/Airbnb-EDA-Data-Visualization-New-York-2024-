@@ -87,6 +87,8 @@ Airbnb.ipython  # Python script for analysis in VS Code
 datasets.csv  # Dataset used  
 README.md  # Project Documentation
 
-
+## Contact  
+ [LinkedIn Profile](https://www.linkedin.com/in/niveditha-d-46a02330b)  
+ [GitHub Profile](https://github.com/Niveditha-2003)  
 
 
